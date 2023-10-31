@@ -1,4 +1,6 @@
-# `Exonerate` to get exons from coding sequence
+# Creating alignments of coding sequence
+
+After we used `phyluce_probe_annotations_from_genomes` to get protein IDs of UCE that mapped to the agabi_varbur_2 genome, we used the agabi_varbur_2 protein sequences to get the coding region of our fungal samples.
 
 `exonerate_hits.py` from HybPiper <https://github.com/mossmatters/HybPiper> (version 1.3.1) was used to run exonerate (version 2.4.0).
 

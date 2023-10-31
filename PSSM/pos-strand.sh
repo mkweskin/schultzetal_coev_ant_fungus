@@ -7,6 +7,8 @@
 # of the splice. No sequence is taken from the upstream side of the first exon and the downstream side of the
 # of the last exon since this is not a splice site.
 # Seqtk is used to remoformat the line widths in the fasta files. 
+#
+# Matthew Kweskin, kweskinm@si.edu
 
 INFASTA=./Abisporus_varbisporusH97.v2_AssembledScaffolds.fasta
 OUTDIRUP=./up-fasta      # Output directory for sequence upstream of the splice
