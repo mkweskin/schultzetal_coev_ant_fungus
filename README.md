@@ -1,5 +1,7 @@
 # schultzetal_coev_ant_fungus
 
+[![DOI](https://zenodo.org/badge/708967045.svg)](https://zenodo.org/doi/10.5281/zenodo.12745440)
+
 This contains scripts used in the paper "The coevolution of ant-fungus agriculture" (working title), Schultz, et al., submitted.
 
 Please cite this paper if you use these scripts.
